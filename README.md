@@ -12,7 +12,7 @@ This repository contains a sample project for a custom credit card component wit
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/birajsingha/custom-credit-card.git
+    https://github.com/BirajSingha/Custom-Credit-Card.git
     ```
 
 2. Navigate to the project directory:
