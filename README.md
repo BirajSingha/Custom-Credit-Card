@@ -48,8 +48,8 @@ This structure aims to help you organize your project efficiently and can be ada
 
 #### ⭐ **Support My Work**
 
-If you find my projects helpful or interesting, please consider leaving a star! ⭐ Your support is greatly appreciated and motivates me to keep creating and sharing more awesome projects.
+If you find this project helpful, please consider leaving a star! ⭐ Your support is greatly appreciated.
 
-[![Star on GitHub](https://img.shields.io/badge/⭐-Star_on_GitHub-000?style=for-the-badge&logo=github)](https://github.com/birajsingha)
+[![Star on GitHub](https://img.shields.io/github/stars/BirajSingha/Custom-Credit-Card.git?style=social)](https://github.com/BirajSingha/Custom-Credit-Card.git)
 
 ---
