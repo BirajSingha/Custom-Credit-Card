@@ -50,6 +50,6 @@ This structure aims to help you organize your project efficiently and can be ada
 
 If you find this project helpful, please consider leaving a star! ⭐ Your support is greatly appreciated.
 
-[![Star on GitHub](https://img.shields.io/github/stars/BirajSingha/custom-credit-card?style=social)](https://github.com/BirajSingha/Custom-Credit-Card.git)
+[![Star on GitHub](https://img.shields.io/github/stars/BirajSingha/Custom-Credit-Card?style=social)](https://github.com/BirajSingha/Custom-Credit-Card.git)
 
 ---
